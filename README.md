@@ -61,7 +61,7 @@ ai_grading_system/
 ### ![step](https://img.shields.io/badge/1-Clone_the_Repository-3b82f6?style=flat-square)
 
 ```bash
-git clone https://github.com/your-username/gradeai.git
+git clone https://github.com/sohiaking/gradeai.git
 cd gradeai
 ```
 
